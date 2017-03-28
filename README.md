@@ -20,3 +20,23 @@ First of all I will introduce my personal interest, and finished by presenting m
 	
   This Roadmap is a global guidance to the technologies I had to learn this year. It’s not an exhaustive goal, because computing always evolves. And my work also allows me to improve my skills.
 So this Roadmap for 2017 can actually evolve in function of my skills improvement and my objectives. I also added my path for Hardware / network Knowledge I would like to learn.
+
+
+#Global
+
+< INCOMMING !!!! >
+
+#Front-End
+
+![alt tag](Img/Front_End_Road.jpg)
+
+#Back-End
+
+![alt tag](Img/Back_End_Road_2017.jpg)
+
+
+
+#Network / Hardware
+
+< IN COMMING !!! >
+
