@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/yannisVentura/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page goal is to present my objectives and personal interest as a developer junior in 2017. 
+First of all I will introduce my personal interest, and finished by presenting my Roadmap.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Personal interest 
 
-### Markdown
+  ## Video Games
+  Since my young ages, I have a passion for video games. These last few years, I played a lot of video games, principally on my computer. I love every kind of video games, that’s why I would like to work on a web application create for gamers needs. Moreover wish I could find some Free, Open source projects to contribute.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  ## Hardware
+  Since my first years of computing I wish to increase my Hardware’s skills. That’s why I would like to build my own gaming computer.
+  Today I wish to push my experience further by building my own network architecture (Firewall, VLANs, and Virtual Machine).
+	
+  ## Development
+  	
+  Today I worked as a Junior Web Developer, I had an introduction to web development with Python Django Framework, and today I wish to improve my skills. So, as you can notice to my roadmap, my principal point of interest is Back-End development, but It also required some Front-End knowledge.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yannisVentura/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Personal Roadmap
+	
+  This Roadmap is a global guidance to the technologies I had to learn this year. It’s not an exhaustive goal, because computing always evolves. And my work also allows me to improve my skills.
+So this Roadmap for 2017 can actually evolve in function of my skills improvement and my objectives. I also added my path for Hardware / network Knowledge I would like to learn.
