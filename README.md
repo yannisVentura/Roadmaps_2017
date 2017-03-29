@@ -26,7 +26,7 @@ So this Roadmap for 2017 can actually evolve in function of my skills improvemen
 
 #Global
 
-< INCOMMING !!!! >
+![alt tag](Img/Global-Roadmap.jpg)
 
 #Front-End
 
@@ -37,8 +37,7 @@ So this Roadmap for 2017 can actually evolve in function of my skills improvemen
 ![alt tag](Img/Back_End_Road_2017.jpg)
 
 
-
 #Network / Hardware
 
-< IN COMMING !!! >
+![alt tag](Img/Roadmap.jpg)
 
